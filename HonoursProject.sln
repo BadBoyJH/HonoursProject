@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{BE5A593A-05B5-4B03-AEE7-E9ACD5A2D80C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraAPI", "CameraAPI\CameraAPI.csproj", "{A5C0E570-F0C4-4E92-9249-DFDA3FAF4CDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{BE5A593A-05B5-4B03-AEE7-E9ACD5A2D80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE5A593A-05B5-4B03-AEE7-E9ACD5A2D80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE5A593A-05B5-4B03-AEE7-E9ACD5A2D80C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5C0E570-F0C4-4E92-9249-DFDA3FAF4CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C0E570-F0C4-4E92-9249-DFDA3FAF4CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C0E570-F0C4-4E92-9249-DFDA3FAF4CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C0E570-F0C4-4E92-9249-DFDA3FAF4CDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
